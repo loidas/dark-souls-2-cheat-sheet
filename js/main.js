@@ -1,8 +1,8 @@
 var profilesKey = 'darksouls_profiles';
 
 (function($) {
-
     'use strict';
+
     var themes = {
         "Standard" : "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
         "Cosmo" : "https://maxcdn.bootstrapcdn.com/bootswatch/3.3.6/cosmo/bootstrap.min.css",
